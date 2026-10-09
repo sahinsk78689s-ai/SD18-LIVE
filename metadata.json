@@ -1,0 +1,6 @@
+{
+  "name": "SD18 LIVE",
+  "description": "Mobile social live app with 12-seat voice party rooms, live streams, chat, demo coins & gifts, and agency management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
